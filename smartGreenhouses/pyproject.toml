@@ -1,0 +1,13 @@
+[project]
+name = "smart_green_houses"
+version = "0.0.1"
+description = "Smart GreenHouses"
+authors = [
+    {name = "Daryna Nikitenko", email = "darynanik@icloud.com"},
+]
+dependencies = [
+    "influxdb-client>=1.29.1",
+]
+requires-python = ">=3.8"
+license = {text = "MIT"}
+
